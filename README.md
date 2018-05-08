@@ -5,4 +5,6 @@
 | ----------------- |------------------------| ---------------- |
 | Donnie Darko      | Richard Kelly          | :skull: :rabbit: |
 | Waking Life       | Richard Linklater      |                  |
-| The Holy Mountain | Alejandro Jodorowsky   |                  |
+| Memento           | Christopher Nolan      |                  |
+| Under the Skin    | Jonathan Glazer        |                  |
+
